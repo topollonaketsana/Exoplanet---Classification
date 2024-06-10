@@ -25,6 +25,7 @@ To run the analysis, execute the following command from the project's root direc
 
 
 
+```markdown
 
 ## Contributing
 
