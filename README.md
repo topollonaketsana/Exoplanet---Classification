@@ -14,10 +14,9 @@ To set up this project, follow these steps:
 
 
 
+2. Install the required python packages:
+   `bash
+   pip install -r requirements.txt
 
-
-2. Install the required Python packages:
-pip install -r requirements.txt
-
-To run the analysis, execute the following command from the project's root directory:
-python src/main.py
+   `bash
+   python src/main.py
