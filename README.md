@@ -11,13 +11,7 @@ To set up this project, follow these steps:
    ```bash
    git clone https://github.com/topollonaketsana/Exoplanet---Classification.git
    cd Exoplanet---Classification
-
-2.  Install the required Python packages:
-   pip install -r requirements.txt
    
-
-
-
 2. Install the required python packages:
    `bash
    pip install -r requirements.txt
