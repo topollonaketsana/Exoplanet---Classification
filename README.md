@@ -13,8 +13,8 @@ To set up this project, follow these steps:
    cd Exoplanet---Classification
    
 2. Install the required python packages:
-   `bash
+   ```bash
    pip install -r requirements.txt
 
-   `bash
+   ```bash
    python src/main.py
