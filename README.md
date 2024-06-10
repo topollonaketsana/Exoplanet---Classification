@@ -18,17 +18,16 @@ To set up this project, follow these steps:
    pip install -r requirements.txt
 
 
+```markdown
 ## Usage
 To run the analysis, execute the following command from the project's root directory:
-   ```bash
-   python src/main.py
+
+```bash
+python src/main.py
 
 
-
-```markdown
 
 ## Contributing
-
 If you are interested in contributing, Clone the repository, make your changes, and submit a pull request. Contributions are welcome and greatly appreciated.
 
 
