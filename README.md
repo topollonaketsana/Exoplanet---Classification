@@ -5,17 +5,13 @@
 This project aims to classify exoplanets based on data from telescopes. Our goal is to utilize machine learning algorithms to predict the class of each observed celestial body. The data is obtained from the NASA Exoplanet Archive, including light curve data from the Kepler and TESS missions.
 
 ## Installation
-To set up this project locally, follow these steps:
+To set up this project, follow these steps:
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/topollonaketsana/Exoplanet---Classification.git
    cd Exoplanet---Classification
-python -m venv venv
-source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-pip install -r requirements.txt
 
-python src/main.py
 
 
 
