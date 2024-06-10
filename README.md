@@ -16,6 +16,8 @@ To set up this project, follow these steps:
    ```bash
    pip install -r requirements.txt
 
-3. To run the analysis, execute the following command from the project's root directory:
+
+Usage
+To run the analysis, execute the following command from the project's root directory:
    ```bash
    python src/main.py
