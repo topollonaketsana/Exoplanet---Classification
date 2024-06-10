@@ -17,3 +17,11 @@ pip install -r requirements.txt
 
 python src/main.py
 
+
+
+
+2. Install the required Python packages:
+pip install -r requirements.txt
+
+To run the analysis, execute the following command from the project's root directory:
+python src/main.py
