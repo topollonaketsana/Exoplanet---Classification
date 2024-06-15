@@ -13,6 +13,8 @@ To set up this project, follow these steps:
    git clone https://github.com/topollonaketsana/Exoplanet---Classification.git
    cd Exoplanet---Classification
    
+## Required packages
+
 2. Install the required python packages to get started:
 - install numpy
 - install pandas
@@ -24,7 +26,7 @@ To set up this project, follow these steps:
 - install tensorflow
 - install keras
 - install jupyter
-```
+  
 ## Usage
 To run the analysis, execute the following command from the project's root directory:
 
