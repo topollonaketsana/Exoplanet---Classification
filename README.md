@@ -15,7 +15,7 @@ To set up this project, follow these steps:
    
 ## Required packages
 
-2. Install the required python packages to get started:
+Install the required python packages to get started:
 - install numpy
 - install pandas
 - install scikit-learn
