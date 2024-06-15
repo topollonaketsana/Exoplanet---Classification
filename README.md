@@ -11,8 +11,12 @@ To set up this project, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/topollonaketsana/Exoplanet---Classification.git
-   cd Exoplanet---Classification
    
+2. Change the directory to Exoplanet---Classification:   
+   ```bash
+   cd Exoplanet---Classification
+
+```
 ## Required packages
 
 Install the required python packages to get started:
