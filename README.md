@@ -14,8 +14,40 @@ To set up this project, follow these steps:
    cd Exoplanet---Classification
    
 2. Install the required python packages:
-   ```bash
-   pip install -r requirements.txt
+
+## Getting Started
+
+```bash
+
+pip install numpy==1.21.0
+```bash
+
+pip install pandas==1.3.0
+```bash
+
+pip install scikit-learn==0.24.2
+```bash
+
+pip install matplotlib==3.4.2
+```bash
+
+pip install seaborn==0.11.2
+```bash
+
+pip install scipy==1.7.0
+```bash
+
+pip install astropy==5.1
+```bash
+
+pip install tensorflow==2.5.0
+```bash
+
+pip install keras==2.5.0
+```bash
+
+pip install jupyter==1.0.0
+
 
 ## Usage
 To run the analysis, execute the following command from the project's root directory:
