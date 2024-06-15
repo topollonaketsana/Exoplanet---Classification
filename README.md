@@ -20,7 +20,6 @@ To set up this project, follow these steps:
 ## Required packages
 
 Install the required Python packages to get started:
-<<<<<<< HEAD
 - install numpy 
 - install pandas  [Get started with Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html)
 - install sci-kit-learn
@@ -29,7 +28,6 @@ Install the required Python packages to get started:
 - install scipy
 - install astropy
 - install TensorFlow
-- install keras
 - install jupyter
   
 ## Usage
