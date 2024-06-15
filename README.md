@@ -11,51 +11,26 @@ To set up this project, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/topollonaketsana/Exoplanet---Classification.git
+   
+2. Change the directory to Exoplanet---Classification:   
+   ```bash
    cd Exoplanet---Classification
-   
-2. Install the required python packages to get started:
 
-   ```bash
+``
+## Required packages
 
-   pip install numpy==1.21.0
-
-   ```bash
-
-   pip install pandas==1.3.0
-   
-   ```bash
-
-   pip install scikit-learn==0.24.2
-
-   ```bash
-
-   pip install matplotlib==3.4.2
-
-   ```bash
-
-   pip install seaborn==0.11.2
-
-   ```bash
-
-   pip install scipy==1.7.0
-
-   ```bash
-
-   pip install astropy==5.1
-
-   ```bash
-
-   pip install tensorflow==2.5.0 
-
-   ```bash
-
-   pip install keras==2.5.0
-   
-```bash
-
-pip install jupyter==1.0.0
-
-
+Install the required python packages to get started:
+- install numpy 
+- install pandas  [Get started with Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html)
+- install scikit-learn
+- install matplotlib
+- install seaborn
+- install scipy
+- install astropy
+- install tensorflow
+- install keras
+- install jupyter
+  
 ## Usage
 To run the analysis, execute the following command from the project's root directory:
 
@@ -65,5 +40,3 @@ python src/main.py
 ```
 ## Contributing
 If you are interested in contributing, Clone the repository, make your changes, and submit a pull request. Contributions are welcome and greatly appreciated.
-
-
