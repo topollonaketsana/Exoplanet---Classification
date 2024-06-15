@@ -16,7 +16,7 @@ To set up this project, follow these steps:
    ```bash
    cd Exoplanet---Classification
 
-```
+``
 ## Required packages
 
 Install the required python packages to get started:
