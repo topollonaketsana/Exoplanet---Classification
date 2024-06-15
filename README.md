@@ -20,15 +20,15 @@ To set up this project, follow these steps:
 ## Required packages
 
 Install the required Python packages to get started:
-- install numpy 
-- install pandas  [Get started with Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html)
-- install sci-kit-learn
-- install matplotlib
-- install seaborn
-- install scipy
-- install astropy
-- install TensorFlow
-- install jupyter
+- install numpy  [Get Started](https://numpy.org/doc/stable/user/install.html) 
+- install pandas  [Get started](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html)
+- install sci-kit-learn  [Get Started](https://scikit-learn.org/stable/install.html)
+- install matplotlib  [Get Started](https://matplotlib.org/stable/install/index.html)
+- install seaborn  [Get Started](https://seaborn.pydata.org/installing.html)
+- install scipy  [Get Started](https://scipy.org/install/)
+- install astropy  [Get Started](https://www.astropy.org/)
+- install TensorFlow  [Get started](https://www.tensorflow.org/install)
+- install jupyter  [Get Started with Jupyter Lab](https://jupyter.org/try-jupyter/lab/)
   
 ## Usage
 To run the analysis, execute the following command from the project's root directory:
