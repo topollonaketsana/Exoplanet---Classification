@@ -20,8 +20,13 @@ To set up this project, follow these steps:
 ## Required packages
 
 Install the required python packages to get started:
+<<<<<<< HEAD
 - install numpy 
 - install pandas  [Get started with Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html)
+=======
+- install numpy
+- install pandas
+>>>>>>> 12b185a14f8abb655e53a018cfd1e5d8f2b2fd18
 - install scikit-learn
 - install matplotlib
 - install seaborn
