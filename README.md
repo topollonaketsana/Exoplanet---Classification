@@ -13,37 +13,44 @@ To set up this project, follow these steps:
    git clone https://github.com/topollonaketsana/Exoplanet---Classification.git
    cd Exoplanet---Classification
    
-2. Install the required python packages:
+2. Install the required python packages to get started:
 
-## Getting Started
+   ```bash
 
-```bash
+   pip install numpy==1.21.0
 
-pip install numpy==1.21.0
-```bash
+   ```bash
 
-pip install pandas==1.3.0
-```bash
+   pip install pandas==1.3.0
+   
+   ```bash
 
-pip install scikit-learn==0.24.2
-```bash
+   pip install scikit-learn==0.24.2
 
-pip install matplotlib==3.4.2
-```bash
+   ```bash
 
-pip install seaborn==0.11.2
-```bash
+   pip install matplotlib==3.4.2
 
-pip install scipy==1.7.0
-```bash
+   ```bash
 
-pip install astropy==5.1
-```bash
+   pip install seaborn==0.11.2
 
-pip install tensorflow==2.5.0
-```bash
+   ```bash
 
-pip install keras==2.5.0
+   pip install scipy==1.7.0
+
+   ```bash
+
+   pip install astropy==5.1
+
+   ```bash
+
+   pip install tensorflow==2.5.0 
+
+   ```bash
+
+   pip install keras==2.5.0
+   
 ```bash
 
 pip install jupyter==1.0.0
