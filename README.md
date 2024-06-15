@@ -14,16 +14,16 @@ To set up this project, follow these steps:
    cd Exoplanet---Classification
    
 2. Install the required python packages to get started:
-install numpy
-install pandas
-install scikit-learn
-install matplotlib
-install seaborn
-install scipy
-install astropy
-install tensorflow
-install keras
-install jupyter
+- install numpy
+- install pandas
+- install scikit-learn
+- install matplotlib
+- install seaborn
+- install scipy
+- install astropy
+- install tensorflow
+- install keras
+- install jupyter
 ```
 ## Usage
 To run the analysis, execute the following command from the project's root directory:
