@@ -23,10 +23,10 @@ cd Exoplanet---Classification
 
 ## Required packages
 
-Get started with the following Python Libraries, you do not have to install them directly, you will use following `requirement` command line to install them to your jupyter notebook. 
+Get started with the following Python Libraries, you do not have to install them directly, you will use the following `requirements.txt` command line to install them to your jupyter notebook. 
 
 ```bash
-pip install requirement.
+pip install -r requirements.txt
 ```
 
 ## install python and jupyter notebook
