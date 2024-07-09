@@ -10,28 +10,33 @@ This project focuses on the classification of exoplanets based on data collected
 This project aims to show how astrophysicists can use machine learning to identify celestial bodies in the universe. We will use the ML algorithm to identify whether a celestial body is an exoplanet or not, Exoplanets are planets outside our solar system. There are about 5,000 exoplanets out there, in our galaxy alone out of billions of galaxies in the universe. The James Webb Space Telescope (JWST) is expected to discover more exoplanets. 
 The goal for this project is to develop the simplest and efficient way of discovering these exoplanets using the current technology, considering advancements of AI, we aim to enhance the accuracy and speed of exoplanet detection, ultimately contributing to significant breakthroughs in astronomical research and our understanding of the universe.
 
-## Installation
+## Setup
 To set up this project, follow these steps:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/topollonaketsana/Exoplanet---Classification.git
-   
-2. Change the directory to Exoplanet---Classification:   
-   ```bash
-   cd Exoplanet---Classification
+Clone the repository and go to Exoplanet---classification directory:
 
-``
+```bash
+git clone https://github.com/topollonaketsana/Exoplanet---Classification.git
+cd Exoplanet---Classification
+```   
+##
+
 ## Required packages
 
-Get started with the following python Libraries, you do not have to install them directly, you will use `requirement` line to install them to your jupyter notebook. 
+Get started with the following Python Libraries, you do not have to install them directly, you will use following `requirement` command line to install them to your jupyter notebook. 
 
-# install python and jupyter notebook
+```bash
+pip install requirement.
+```
 
+## install python and jupyter notebook
+
+1. Python
 ```bash
 pip install python
 ```
 
+2. Jupyter Notebook
 ```bash
 pip install jupyter
 ```
