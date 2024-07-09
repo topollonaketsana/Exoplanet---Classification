@@ -4,7 +4,7 @@ This repository is the Kepler Exoplanet Search Results dataset, which includes k
 
 ## Dataset Overview
 
-The dataset is available in a CSV file named `cumulative.csv` on `..data` path. Each row in the dataset represents a particula exoplanet, with various attributes describing its characteristics and the observations made by the Kepler Space Telescope.
+The dataset is available in a CSV file named `exoplanets.csv` on `..data` path. Each row in the dataset represents a particula exoplanet, with various attributes describing its characteristics and the observations made by the Kepler Space Telescope.
 
 ### Key Terms and Columns
 
