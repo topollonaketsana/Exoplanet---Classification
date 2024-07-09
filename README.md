@@ -3,7 +3,12 @@
 # Exoplanet Classification Project
 
 ## Project Overview
-This project aims to classify exoplanets based on data from telescopes. Our goal is to utilize machine learning algorithms to predict the class of each observed celestial body. The data is obtained from the NASA Exoplanet Archive, including light curve data from the Kepler and TESS missions.
+This project focuses on the classification of exoplanets based on data collected from telescopes. By Using data collected from the NASA Exoplanet Archive, including light curve data from the Kepler and TESS missions, we aim to utilize machine learning algorithms to predict the classification of each observed celestial body.
+
+##
+## The aim and the goal of this project:
+This project aims to show how astrophysicists can use machine learning to identify celestial bodies in the universe. We will use the ML algorithm to identify whether a celestial body is an exoplanet or not, Exoplanets are planets outside our solar system. There are about 5,000 exoplanets out there, in our galaxy alone out of billions of galaxies in the universe. The James Webb Space Telescope (JWST) is expected to discover more exoplanets. 
+The goal for this project is to develop the simplest and efficient way of discovering these exoplanets using the current technology, considering advancements of AI, we aim to enhance the accuracy and speed of exoplanet detection, ultimately contributing to significant breakthroughs in astronomical research and our understanding of the universe.
 
 ## Installation
 To set up this project, follow these steps:
