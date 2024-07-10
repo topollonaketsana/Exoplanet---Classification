@@ -1,7 +1,3 @@
-# Kepler Exoplanet Search Results
-
-This repository is the Kepler Exoplanet Search Results dataset, which includes key terms and columns. The dataset provides information about various potential exoplanets and fully identified exoplanets by the mission.
-
 ## Dataset Overview
 
 The dataset is available in a CSV file named `exoplanets.csv` on `..data` path. Each row in the dataset represents a particula exoplanet, with various attributes describing its characteristics and the observations made by the Kepler Space Telescope.
