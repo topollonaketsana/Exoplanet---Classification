@@ -58,7 +58,7 @@ These are Python Libraries used on this project:
 To run the analysis, execute the following command from the project's root directory:
 
 ```bash
-python src/main.ipynb
+jupyter src/main.ipynb
 ```
 ##
 
