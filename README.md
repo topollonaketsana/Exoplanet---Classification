@@ -66,5 +66,6 @@ python src/main.ipynb
 ## Contributing
 If you are interested in contributing, Clone the repository, make your changes, and submit a pull request. Contributions are welcome and greatly appreciated.
 
-## Aknowlegment
-
+## Acknowledgment
+- [Kepler space telescope](https://science.nasa.gov/mission/kepler)
+- [Nasa Exoplanet](https://science.nasa.gov/exoplanets/)
