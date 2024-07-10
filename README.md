@@ -55,10 +55,10 @@ These are Python Libraries used on this project:
 ##
 
 ## Usage
-To run the analysis, execute the following command from the project's root directory:
+To run the analysis, use the following command from the project's root directory and navigate to src.ipynb:
 
 ```bash
-jupyter src/main.ipynb
+jupyter notebook
 ```
 ##
 
