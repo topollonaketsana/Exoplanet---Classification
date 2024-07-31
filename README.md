@@ -2,7 +2,7 @@
 # Exoplanet---Classification
 # Exoplanet Classification Project
 
-<img src="https://github.com/user-attachments/assets/373f57d6-059f-4b5b-a918-d241a3aef755" alt="Hr8699_orbit_hd" width="900">
+<img src="https://github.com/user-attachments/assets/373f57d6-059f-4b5b-a918-d241a3aef755" alt="Hr8299_orbit_hd" width="990">
 
 
 
