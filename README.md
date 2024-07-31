@@ -2,6 +2,9 @@
 # Exoplanet---Classification
 # Exoplanet Classification Project
 
+![Hr8799_orbit_hd](https://github.com/user-attachments/assets/373f57d6-059f-4b5b-a918-d241a3aef755)
+
+
 ## Project Overview
 This project focuses on the classification of exoplanets based on data collected from telescopes. By Using data collected from the NASA Exoplanet Archive, including light curve data from the Kepler and TESS missions, we aim to utilize machine learning algorithms to predict the classification of each observed celestial body.
 
