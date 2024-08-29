@@ -3,8 +3,9 @@
 
 * Logistic regression Model
 - Simple to use
-- 
+-  is a linear model commonly used for binary classification
+
 * Random decision tree
 - Avoids overfitting
-- 
+- It also provides feature importance scores
 
