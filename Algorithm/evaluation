@@ -1,1 +1,15 @@
+### Evaluation
 
+* Confusion matrix
+- summarize the perfomance of a claasification model
+
+* Accuracy score
+- Measure % of correct classified instances
+
+* Precision
+
+* Cross-Validation
+- test the model perfomance by training on differenct subset of data
+
+* ROC Curve and AUC
+- analyse 
