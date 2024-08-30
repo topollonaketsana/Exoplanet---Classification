@@ -2,8 +2,10 @@
 ### Model selection
 
 * Logistic regression Model
-- Simple to use
+- Simple to use 
 -  is a linear model commonly used for binary classification
+- can handle large data set
+- gives predictions
 
 * Random decision tree
 - Avoids overfitting
