@@ -1,2 +1,13 @@
 ### Preprocessing
 
+* Data Cleaning
+- handle missing values
+- convert catagorical label into binary/numerical
+
+* Plotting
+- Understand some useful attributes/columns
+- visualize data using plots
+
+* Train-Test split
+- divide dataset into trainning and testing sets
+- make sure is well trained
