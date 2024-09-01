@@ -33,14 +33,10 @@ Get started with the following Python Libraries, you do not have to install them
 pip install -r requirements.txt
 ```
 
-## install python and jupyter notebook
+## Make sure you have installed python and can install jupyter notebook using this line:
 
-1. Python
-```bash
-pip install python
-```
 
-2. Jupyter Notebook
+1. Jupyter Notebook
 ```bash
 pip install jupyter
 ```
