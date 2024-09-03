@@ -49,7 +49,6 @@ These are Python Libraries used on this project:
 - sci-kit-learn  [Get Started](https://scikit-learn.org/stable/install.html)
 - matplotlib  [Get Started](https://matplotlib.org/stable/install/index.html)
 - seaborn  [Get Started](https://seaborn.pydata.org/installing.html)
-- scipy  [Get Started](https://scipy.org/install/)
 - astropy  [Get Started](https://www.astropy.org/)
 
 ##
