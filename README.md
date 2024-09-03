@@ -48,7 +48,7 @@ These are Python Libraries used on this project:
 - pandas  [Get started](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html)
 - sci-kit-learn  [Get Started](https://scikit-learn.org/stable/install.html)
 - matplotlib  [Get Started](https://matplotlib.org/stable/install/index.html)
-- seaborn  [Get Started](https://seaborn.pydata.org/installing.html)
+- lightkurve [Get Started](https://docs.lightkurve.org/)
 - astropy  [Get Started](https://www.astropy.org/)
 
 ##
