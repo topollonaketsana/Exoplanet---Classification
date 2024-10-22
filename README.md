@@ -1,7 +1,7 @@
 
 # Exoplanet---Classification
 # Exoplanet Classification Project
-## DOI
+
 DOI: [10.5281/zenodo.13975898](https://doi.org/10.5281/zenodo.13975898)
 
 
